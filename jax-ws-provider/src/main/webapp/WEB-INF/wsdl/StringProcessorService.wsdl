@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<definitions
+        xmlns:tns="http://www.somallg.com/stringprocessor"
+        xmlns:xsd="http://www.w3.org/2001/XMLSchema"
+        xmlns:soap="http://schemas.xmlsoap.org/wsdl/soap/"
+        targetNamespace="http://www.somallg.com/stringprocessor"
+        name="StringProcessorService"
+        xmlns="http://schemas.xmlsoap.org/wsdl/">
+    <types>
+        <xsd:schema>
+            <xsd:import namespace="http://www.somallg.com/stringprocessor"
+                        schemaLocation="StringProcessorService_payloads.xsd"/>
+        </xsd:schema>
+    </types>
+    <message name="reverseStringRequest">
+        <part name="parameters" element="tns:reverseStringReq"/>
+    </message>
+    <message name="reverseStringResponse">
+        <part name="result" element="tns:reverseStringResp"/>
+    </message>
+    <portType name="StringProcessorPort">
+        <operation name="reverseString">
+            <input message="tns:reverseStringRequest"/>
+            <output message="tns:reverseStringResponse"/>
+        </operation>
+    </portType>
+    <binding name="StringProcessorPortBinding" type="tns:StringProcessorPort">
+        <soap:binding transport="http://schemas.xmlsoap.org/soap/http"
+                      style="document"/>
+        <operation name="reverseString">
+            <soap:operation soapAction="urn:ReverseString"/>
+            <input>
+                <soap:body use="literal"/>
+            </input>
+            <output>
+                <soap:body use="literal"/>
+            </output>
+        </operation>
+    </binding>
+    <service name="StringProcessorService">
+        <port name="StringProcessorServicePort"
+              binding="tns:StringProcessorPortBinding">
+            <soap:address
+                    location="http://localhost:8080/StringProcessorService"/>
+        </port>
+    </service>
+</definitions>

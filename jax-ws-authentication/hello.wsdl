@@ -1,0 +1,27 @@
+<!-- <?xml version="1.0" encoding="UTF-8"?>
+<definitions xmlns:tns="http://authentication.ws.jax.somallg.com/"
+	xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://schemas.xmlsoap.org/wsdl/"
+	targetNamespace="http://authentication.ws.jax.somallg.com/">
+	<types>
+		<xsd:schema>
+			<xsd:import namespace="http://authentication.ws.jax.somallg.com/"
+				schemaLocation="http://localhost:8081/jax-ws-authentication/hello?xsd=1" />
+		</xsd:schema>
+	</types>
+	<message name="sayHello">
+		<part name="parameters" element="tns:sayHello" />
+	</message>
+	<message name="sayHelloResponse">
+		<part name="parameters" element="tns:sayHelloResponse" />
+	</message>
+	<portType name="HelloWorld">
+		<operation name="sayHello">
+			<input xmlns:ns1="http://www.w3.org/2007/05/addressing/metadata"
+				ns1:Action="http://authentication.ws.jax.somallg.com/HelloWorld/sayHelloRequest"
+				message="tns:sayHello" />
+			<output xmlns:ns2="http://www.w3.org/2007/05/addressing/metadata"
+				ns2:Action="http://authentication.ws.jax.somallg.com/HelloWorld/sayHelloResponse"
+				message="tns:sayHelloResponse" />
+		</operation>
+	</portType>
+</definitions> -->

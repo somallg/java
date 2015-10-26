@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<web-app xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.0"
+         xmlns="http://java.sun.com/xml/ns/javaee"
+         xsi:schemaLocation="http://java.sun.com/xml/ns/javaee
+ http://java.sun.com/xml/ns/javaee/web-app_3_0.xsd">
+    <listener>
+        <listener-class>com.sun.xml.ws.transport.http.servlet.WSServletContainerInitializer</listener-class>
+    </listener>
+
+    <servlet>
+        <servlet-name>hello</servlet-name>
+        <servlet-class>com.sun.xml.ws.transport.http.servlet.WSServlet</servlet-class>
+        <load-on-startup>1</load-on-startup>
+    </servlet>
+
+    <servlet-mapping>
+        <servlet-name>hello</servlet-name>
+        <url-pattern>/hello</url-pattern>
+    </servlet-mapping>
+
+    <session-config>
+        <session-timeout>30</session-timeout>
+    </session-config>
+
+    <!-- Add container-managed authentication -->
+    <security-constraint>
+        <web-resource-collection>
+            <web-resource-name>JAX-WS Container-managed Authentication</web-resource-name>
+            <url-pattern>/hello</url-pattern>
+        </web-resource-collection>
+
+        <auth-constraint>
+            <role-name>USER</role-name>
+        </auth-constraint>
+
+        <user-data-constraint>
+            <transport-guarantee>NONE</transport-guarantee>
+        </user-data-constraint>
+    </security-constraint>
+
+    <login-config>
+        <auth-method>BASIC</auth-method>
+    </login-config>
+
+    <security-role>
+        <description>Normal User</description>
+        <role-name>USER</role-name>
+    </security-role>
+
+    <security-role>
+        <description>Admin</description>
+        <role-name>ADMIN</role-name>
+    </security-role>
+</web-app>

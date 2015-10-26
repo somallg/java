@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xmlns:context="http://www.springframework.org/schema/context"
+       xmlns="http://www.springframework.org/schema/beans"
+       xsi:schemaLocation="http://www.springframework.org/schema/beans
+       http://www.springframework.org/schema/beans/spring-beans.xsd
+       http://www.springframework.org/schema/context
+       http://www.springframework.org/schema/context/spring-context.xsd">
+
+    <context:property-placeholder location="classpath:jax-ws-authentication-config.properties"/>
+
+    <!-- Create WS Client using Spring -->
+    <bean class="org.springframework.remoting.jaxws.JaxWsPortProxyFactoryBean">
+        <property name="serviceInterface" value="${serviceInterface}"/>
+        <property name="wsdlDocumentUrl" value="${wsdlDocumentUrl}"/>
+        <property name="namespaceUri" value="${namespaceUri}"/>
+        <property name="serviceName" value="${serviceName}"/>
+        <property name="portName" value="${portName}"/>
+        <property name="username" value="${username}"/>
+        <property name="password" value="${password}"/>
+    </bean>
+
+    <!--<bean class="com.somallg.logger.injector.LoggerInjector"/>-->
+</beans>

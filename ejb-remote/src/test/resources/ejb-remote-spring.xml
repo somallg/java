@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xmlns:context="http://www.springframework.org/schema/context"
+       xmlns:jee="http://www.springframework.org/schema/jee"
+       xmlns="http://www.springframework.org/schema/beans"
+       xsi:schemaLocation="http://www.springframework.org/schema/beans
+       http://www.springframework.org/schema/beans/spring-beans.xsd
+       http://www.springframework.org/schema/jee
+       http://www.springframework.org/schema/jee/spring-jee.xsd
+       http://www.springframework.org/schema/context
+       http://www.springframework.org/schema/context/spring-context.xsd">
+
+    <beans profile="test">
+        <context:property-placeholder location="classpath:ejb-remote-config.properties"/>
+
+        <jee:remote-slsb jndi-name="${helloWorld}"
+                         business-interface="com.somallg.ejb.remote.stateless.StatelessHelloWorld"
+                         id="helloWorld">
+            <jee:environment>
+                java.naming.factory.url.pkgs=org.jboss.ejb.client.naming
+            </jee:environment>
+        </jee:remote-slsb>
+
+        <jee:remote-slsb jndi-name="${statelessRemoteCounter}"
+                         business-interface="com.somallg.ejb.remote.stateless.StatelessRemoteCounter"
+                         id="statelessRemoteCounter">
+            <jee:environment>
+                java.naming.factory.url.pkgs=org.jboss.ejb.client.naming
+            </jee:environment>
+        </jee:remote-slsb>
+
+        <jee:remote-slsb jndi-name="${statefulRemoteCounter}"
+                         business-interface="com.somallg.ejb.remote.stateful.StatefulRemoteCounter"
+                         id="statefulRemoteCounter">
+            <jee:environment>
+                java.naming.factory.url.pkgs=org.jboss.ejb.client.naming
+            </jee:environment>
+        </jee:remote-slsb>
+
+        <!-- Create a Executor Service -->
+        <bean class="java.util.concurrent.Executors" factory-method="newFixedThreadPool" id="executorService">
+            <constructor-arg value="${NB_THREAD}"/>
+        </bean>
+
+        <!--<bean class="com.somallg.logger.injector.LoggerInjector"/>-->
+    </beans>
+</beans>

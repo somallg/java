@@ -1,0 +1,28 @@
+<xs:schema xmlns:tns="http://ws.somallg.com/" xmlns:xs="http://www.w3.org/2001/XMLSchema" version="1.0"
+           targetNamespace="http://ws.somallg.com/">
+    <xs:element name="sayHello" type="tns:sayHello"/>
+    <xs:element name="sayHelloResponse" type="tns:sayHelloResponse"/>
+    <xs:element name="sayHellos" type="tns:sayHellos"/>
+    <xs:element name="sayHellosResponse" type="tns:sayHellosResponse"/>
+    <xs:complexType name="sayHello">
+        <xs:sequence>
+            <xs:element name="arg0" type="xs:string" minOccurs="0"/>
+        </xs:sequence>
+    </xs:complexType>
+    <xs:complexType name="sayHelloResponse">
+        <xs:sequence>
+            <xs:element name="return" type="xs:string" minOccurs="0"/>
+        </xs:sequence>
+    </xs:complexType>
+    <xs:complexType name="sayHellos">
+        <xs:sequence>
+            <xs:element name="arg0" type="xs:string" minOccurs="0"/>
+            <xs:element name="arg1" type="xs:string" minOccurs="0"/>
+        </xs:sequence>
+    </xs:complexType>
+    <xs:complexType name="sayHellosResponse">
+        <xs:sequence>
+            <xs:element name="return" type="xs:string" minOccurs="0"/>
+        </xs:sequence>
+    </xs:complexType>
+</xs:schema>

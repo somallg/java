@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<xs:schema
+        xmlns:tns="http://www.somallg.com/stringprocessor"
+        xmlns:xs="http://www.w3.org/2001/XMLSchema"
+        version="1.0"
+        targetNamespace="http://www.somallg.com/stringprocessor">
+    <xs:element name="reverseStringReq" type="tns:reverseStringReq"/>
+    <xs:element name="reverseStringResp" type="tns:reverseStringResp"/>
+    <xs:complexType name="reverseStringReq">
+        <xs:sequence>
+            <xs:element name="inString" type="xs:string"/>
+        </xs:sequence>
+    </xs:complexType>
+    <xs:complexType name="reverseStringResp">
+        <xs:sequence>
+            <xs:element name="return" type="xs:string"/>
+        </xs:sequence>
+    </xs:complexType>
+</xs:schema>

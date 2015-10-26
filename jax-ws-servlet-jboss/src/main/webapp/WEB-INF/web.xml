@@ -1,0 +1,14 @@
+<web-app xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.0"
+         xmlns="http://java.sun.com/xml/ns/javaee"
+         xsi:schemaLocation="http://java.sun.com/xml/ns/javaee http://java.sun.com/xml/ns/javaee/web-app_3_0.xsd">
+    <!--<servlet>-->
+    <!--<servlet-name>HelloWorldService</servlet-name>-->
+    <!--<servlet-class>com.somallg.ws.jboss.impl.HelloWorldImpl</servlet-class>-->
+    <!--</servlet>-->
+
+    <!--<servlet-mapping>-->
+    <!--<servlet-name>HelloWorldService</servlet-name>-->
+    <!--<url-pattern>/*</url-pattern>-->
+    <!--</servlet-mapping>-->
+
+</web-app>

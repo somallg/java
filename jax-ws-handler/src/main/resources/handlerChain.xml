@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE xml>
+<handler-chains xmlns="http://java.sun.com/xml/ns/javaee">
+    <handler-chain>
+        <handler>
+            <handler-name>SOAPLogHandler</handler-name>
+            <handler-class>com.somallg.jax.ws.handler.SOAPLogHandler</handler-class>
+        </handler>
+    </handler-chain>
+</handler-chains>
