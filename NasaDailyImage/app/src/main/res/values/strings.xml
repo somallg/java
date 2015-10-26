@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">NasaDailyImage</string>
+
+    <string name="test_image_title">Decorating the Skype</string>
+
+    <string name="test_image_date">Mon, 27 Dec 2010 00:00:00 EST</string>
+
+    <string name="test_image_description">Lorem ipsum dolor sit amet, nisl tincidunt cu pro. Pri cu labores nominavi temporibus. Populo accumsan ius no, ne nulla labitur cum. His no vidisse eleifend, te ceteros percipit vim, ei pro ludus postea vivendum. At mel dicunt impedit, tota alienum accusamus eos ad, pri ut labore philosophia. Mea quem utamur ad, te mea autem aliquip. Est ea ubique omnesque scripserit, mel tale laoreet liberavisse ex.
+
+At per vide dolorem verterem, usu at omnium numquam. No appetere persecuti qui. Blandit volutpat facilisis ius et, et delectus dissentias mea. Summo animal denique quo ut, vel at debet scaevola. Ex nam sonet nemore mentitum, cum in unum melius indoctum.</string>
+
+    <string name="action_settings">Settings</string>
+
+    <string name="refresh">Refresh</string>
+
+    <string name="setwallpaper">Set Wallpapers</string>
+</resources>

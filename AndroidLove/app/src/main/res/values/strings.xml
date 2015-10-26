@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">AndroidLove</string>
+
+    <string name="haiku">I dreamed of a phone\nOpen source and hackable\nAndroid for the win!</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="love_button_text">Show me some Android love!</string>
+</resources>
