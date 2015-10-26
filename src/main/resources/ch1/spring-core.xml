@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xmlns="http://www.springframework.org/schema/beans"
+       xsi:schemaLocation="http://www.springframework.org/schema/beans
+                           http://www.springframework.org/schema/beans/spring-beans.xsd">
+
+    <bean id="simpleConfig" class="com.somallg.spring.core.ch1.SimpleConfig"/>
+
+    <bean id="springSpEL" class="com.somallg.spring.core.ch1.SpringSpEL">
+        <property name="name" value="#{simpleConfig.name}"/>
+        <property name="age" value="#{simpleConfig.age}"/>
+    </bean>
+
+    <bean id="injectCollection" class="com.somallg.spring.core.ch1.CollectionInjection">
+        <property name="map">
+            <map>
+                <entry key="key1">
+                    <value>Hello Lala</value>
+                </entry>
+                <entry key="key2">
+                    <value>Hello LBL</value>
+                </entry>
+            </map>
+        </property>
+
+        <property name="props">
+            <props>
+                <prop key="prop1">Lala</prop>
+                <prop key="prop2">LBL</prop>
+            </props>
+        </property>
+
+        <property name="set">
+            <set>
+                <value>Lala</value>
+                <value>LBL</value>
+            </set>
+        </property>
+    </bean>
+
+    <bean id="shaDigest" class="com.somallg.spring.core.ch1.MessageDigestFactoryBean">
+        <property name="algorithmName">
+            <value>SHA1</value>
+        </property>
+    </bean>
+
+    <bean id="md5Digest" class="com.somallg.spring.core.ch1.MessageDigestFactoryBean"/>
+
+    <bean id="digester" class="com.somallg.spring.core.ch1.MessageDigester"/>
+
+</beans>

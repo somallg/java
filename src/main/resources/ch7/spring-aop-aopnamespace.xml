@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xmlns:aop="http://www.springframework.org/schema/aop"
+       xmlns="http://www.springframework.org/schema/beans"
+       xsi:schemaLocation="http://www.springframework.org/schema/beans 
+                           http://www.springframework.org/schema/beans/spring-beans.xsd
+                           http://www.springframework.org/schema/aop
+                           http://www.springframework.org/schema/aop/spring-aop.xsd">
+
+    <aop:config>
+
+        <aop:pointcut id="fooExecutionNoArgs"
+                      expression="execution(* foo*())"/>
+
+        <aop:pointcut id="fooExecutionArgs"
+                      expression="execution(* foo*(*))"/>
+
+        <aop:aspect ref="advice">
+            <aop:before pointcut-ref="fooExecutionNoArgs"
+                        method="simpleBeforeAdviceNoArgs"/>
+            <aop:before pointcut-ref="fooExecutionArgs"
+                        method="simpleBeforeAdviceArgs"/>
+        </aop:aspect>
+
+    </aop:config>
+
+    <bean id="advice" class="com.somallg.spring.core.ch7.aopnamespace.MyAdvice"/>
+
+    <bean id="myDependency" class="com.somallg.spring.core.ch7.aopnamespace.MyDependency"/>
+
+    <bean id="dep" class="com.somallg.spring.core.ch7.aopnamespace.MyDependency"/>
+
+    <bean id="myBean" class="com.somallg.spring.core.ch7.aopnamespace.MyBean">
+        <property name="dep" ref="dep"/>
+    </bean>
+
+</beans>
