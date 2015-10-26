@@ -1,0 +1,5 @@
+# PLT.27 Leveraging JAXB for Event payloads
+* The Java Portlet Specification 2.0 leverages the Java Architecture for XML Binding (JAXB) 2.0 for defining event payload data that may be transported across the network via remote protocols such as Web Services for Remote Portlets (WSRP) 2.0 spec
+* Event payload must be defined using the JAXB annotations in the POJO and defining the Java object class name in the deployment descriptor via the *value-type* element
+* Event payload must have a valid JAXB binding, or be in the list of Java primitive types / standard classes of JAXB 2.0 spec, and implement *java.io.Serializable*, otherwise a *java.lang.IllegalArgumentException* must be thrown
+* The primitive type *xsd:anyURI* must be mapped to *java.net.URI* and not *java.lang.String*, which is the default in JAXB
