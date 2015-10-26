@@ -1,0 +1,598 @@
+{
+  "rss": {
+    "channel": {
+      "title": "NASA Image of the Day",
+      "description": "The latest NASA \"Image of the Day\" image.",
+      "link": [
+        "http://www.nasa.gov/",
+        {
+          "_rel": "self",
+          "_href": "http://www.nasa.gov/rss/dyn/image_of_the_day.rss",
+          "__prefix": "atom"
+        }
+      ],
+      "language": "en-us",
+      "managingEditor": "yvette.smith-1@nasa.gov",
+      "webMaster": "brian.dunbar@nasa.gov",
+      "docs": "http://blogs.law.harvard.edu/tech/rss",
+      "item": [
+        {
+          "title": "Expedition 42 Returns to Earth",
+          "link": "http://www.nasa.gov/content/expedition-42-returns-to-earth",
+          "description": "The Soyuz TMA-14M spacecraft is seen as it lands with International Space Station Expedition 42 commander Barry Wilmore of NASA, Alexander Samokutyaev of the Russian Federal Space Agency (Roscosmos) and Elena Serova of Roscosmos near the town of Zhezkazgan, Kazakhstan. The landing took place on the evening of Wednesday, March 11 in the U.S, and early in the morning on Thursday, March 12, in Kazakhstan.\n\nThe three crew members returned to Earth after a 167-day mission on the orbital outpost that included hundreds of scientific experiments and several spacewalks to prepare the orbiting laboratory for future arrivals by U.S. commercial crew spacecraft.\n\nCredit: NASA/Bill Ingalls",
+          "enclosure": {
+            "_url": "http://www.nasa.gov/sites/default/files/styles/946xvariable_height/public/thumbnails/image/201503120101hq.jpg?itok=6pD6BU9M",
+            "_length": "2619980",
+            "_type": "image/jpeg"
+          },
+          "guid": {
+            "_isPermaLink": "false",
+            "__text": "http://www.nasa.gov/content/expedition-42-returns-to-earth"
+          },
+          "pubDate": "Wed, 11 Mar 2015 12:00:00 EDT",
+          "source": {
+            "_url": "http://www.nasa.gov/rss/dyn/image_of_the_day.rss",
+            "__text": "NASA Image of the Day"
+          }
+        },
+        {
+          "title": "Test Firing of Booster for NASA's New Rocket",
+          "link": "http://www.nasa.gov/content/test-firing-of-booster-for-nasas-new-rocket",
+          "description": "The largest, most powerful rocket booster ever built successfully fired up Wednesday for a major-milestone ground test in preparation for future missions to help propel NASA’s Space Launch System (SLS) rocket and Orion spacecraft to deep space destinations, including an asteroid and Mars.\n\n\n\nThe booster fired for two minutes, the same amount of time it will fire when it lifts the SLS off the launch pad, and produced about 3.6 million pounds of thrust. The test was conducted at the Promontory, Utah test facility of commercial partner Orbital ATK, and is one of two tests planned to qualify the booster for flight. Once qualified, the flight booster hardware will be ready for shipment to NASA’s Kennedy Space Center in Florida for the first SLS flight.\n\nMore information.\n\nImage Credit: Orbital ATK",
+          "enclosure": {
+            "_url": "http://www.nasa.gov/sites/default/files/styles/946xvariable_height/public/thumbnails/image/boostertest.jpg?itok=BtFf2uiw",
+            "_length": "1012932",
+            "_type": "image/jpeg"
+          },
+          "guid": {
+            "_isPermaLink": "false",
+            "__text": "http://www.nasa.gov/content/test-firing-of-booster-for-nasas-new-rocket"
+          },
+          "pubDate": "Wed, 11 Mar 2015 12:00:00 EDT",
+          "source": {
+            "_url": "http://www.nasa.gov/rss/dyn/image_of_the_day.rss",
+            "__text": "NASA Image of the Day"
+          }
+        },
+        {
+          "title": "Preparing to Test the Booster for NASA's New Rocket",
+          "link": "http://www.nasa.gov/content/preparing-to-test-the-booster-for-nasas-new-rocket",
+          "description": "Engineers at Orbital ATK prepare to test the largest, most powerful booster ever built for NASA's new rocket, the Space Launch System (SLS), which will fire up for a ground test at 11:30 a.m. EDT on Wednesday, March 11, at Orbital ATK Propulsion Systems’ test facilities in Promontory, Utah.\n\nThe two-minute static test is a significant milestone for the SLS as part of NASA’s journey to Mars, and follows years of development. It is one of two ground tests to qualify the booster for flight. A second test is planned for early 2016. Once qualification is complete, the hardware will be ready to help send the rocket, along with NASA’s Orion spacecraft, on its first flight test. When completed, two five-segment, solid-rocket boosters and four RS-25 main engines will power the SLS as it begins its deep space missions. The boosters operate in parallel with the main engines for the first two minutes of flight, providing more than 75 percent of the thrust needed for the rocket to escape Earth’s gravitational pull.\n\nThe first flight test of the SLS will feature a configuration for a 70-metric-ton (77-ton) lift capacity and carry an uncrewed Orion spacecraft beyond low-Earth orbit to test the performance of the integrated system. As the SLS is updated, it will provide an unprecedented lift capability of 130 metric tons (143 tons) to enable missions even farther into our solar system.\n\nLive coverage of the test on NASA TV begins on Wednesday at 11:00 a.m. EDT.\n\nImage Credit: Orbital ATK",
+          "enclosure": {
+            "_url": "http://www.nasa.gov/sites/default/files/styles/946xvariable_height/public/thumbnails/image/m15-040.jpg?itok=eyLaEdly",
+            "_length": "1100402",
+            "_type": "image/jpeg"
+          },
+          "guid": {
+            "_isPermaLink": "false",
+            "__text": "http://www.nasa.gov/content/preparing-to-test-the-booster-for-nasas-new-rocket"
+          },
+          "pubDate": "Tue, 10 Mar 2015 12:00:00 EDT",
+          "source": {
+            "_url": "http://www.nasa.gov/rss/dyn/image_of_the_day.rss",
+            "__text": "NASA Image of the Day"
+          }
+        },
+        {
+          "title": "Taking a Closer Look at Orion After Successful Flight Test",
+          "link": "http://www.nasa.gov/content/taking-a-closer-look-at-orion-after-successful-flight-test",
+          "description": "Engineers across the country have been busy taking a closer look at NASA's Orion spacecraft and the data it produced during its successful flight test in December 2014. Inside the Launch Abort System Facility at NASA's Kennedy Space Center in Florida, Orion was lifted using a special crane for removal of its heat shield on Feb. 13, 2015. In the background, technicians move the heat shield on a work stand. The spacecraft’s heat shield protected Orion as it reentered Earth’s atmosphere at searing temperatures. Removing the back shell allows the team to get a closer look at Orion’s systems to see how they fared during the trip to space. The heat shield was removed in preparation for shipment to NASA’s Marshall Space Flight Center in Huntsville, Alabama, where special equipment will be used to remove its ablative material. From there, the heat shield will be shipped to NASA’s Langley Research Center in Hampton, Virginia, where it will be outfitted on a test article for water impact testing.\n\nMeanwhile, NASA and Lockheed Martin, the prime contractor for Orion, continue to take a look at the data the flight test produced to validate pre-flight models and improve the spacecraft’s design. Analysis of data obtained during its two-orbit, four-and-a-half hour mission Dec. 5 will provide engineers detailed information on how the spacecraft fared.\n\nPhoto Credit: NASA/Jim Grossmann",
+          "enclosure": {
+            "_url": "http://www.nasa.gov/sites/default/files/styles/946xvariable_height/public/thumbnails/image/16014323654_8a77e952b7_o.jpg?itok=zRS_WH2z",
+            "_length": "4025639",
+            "_type": "image/jpeg"
+          },
+          "guid": {
+            "_isPermaLink": "false",
+            "__text": "http://www.nasa.gov/content/taking-a-closer-look-at-orion-after-successful-flight-test"
+          },
+          "pubDate": "Mon, 09 Mar 2015 12:00:00 EDT",
+          "source": {
+            "_url": "http://www.nasa.gov/rss/dyn/image_of_the_day.rss",
+            "__text": "NASA Image of the Day"
+          }
+        },
+        {
+          "title": "Ceres Seen From NASA's Dawn Spacecraft",
+          "link": "http://www.nasa.gov/content/ceres-seen-from-nasas-dawn-spacecraft",
+          "description": "NASA's Dawn spacecraft has become the first mission to achieve orbit around a dwarf planet. The spacecraft was approximately 38,000 miles (61,000) kilometers from Ceres when it was captured by the dwarf planet’s gravity at about 4:39 a.m. PST (7:39 a.m. EST) Friday, March 6.\n\nThis image of Ceres was taken by the Dawn spacecraft on March 1, just a few days before the mission achieved orbit around the previously unexplored world. The image shows Ceres as a crescent, mostly in shadow because the spacecraft's trajectory put it on a side of Ceres that faces away from the sun until mid-April. When Dawn emerges from Ceres' dark side, it will deliver ever-sharper images as it spirals to lower orbits around the planet.\n\nThe image was obtained at a distance of about 30,000 miles (about 48,000 kilometers) at a sun-Ceres-spacecraft angle, or phase angle, of 123 degrees. Image scale on Ceres is 1.9 miles (2.9 kilometers) per pixel. Ceres has an average diameter of about 590 miles (950 kilometers).\n\nDawn's mission is managed by NASA's Jet Propulsion Laboratory, Pasadena, California, for NASA's Science Mission Directorate in Washington. Dawn is a project of the directorate's Discovery Program, managed by NASA's Marshall Space Flight Center in Huntsville, Alabama. The University of California, Los Angeles, is responsible for overall Dawn mission science. Orbital ATK Inc., in Dulles, Virginia, designed and built the spacecraft. The German Aerospace Center, the Max Planck Institute for Solar System Research, the Italian Space Agency and the Italian National Astrophysical Institute are international partners on the mission team. For a complete list of acknowledgments, http://dawn.jpl.nasa.gov/mission.\n\nImage Credit: NASA/JPL-Caltech/UCLA/MPS/DLR/IDA",
+          "enclosure": {
+            "_url": "http://www.nasa.gov/sites/default/files/styles/946xvariable_height/public/thumbnails/image/pia19312.jpg?itok=RNz1fpLN",
+            "_length": "14405",
+            "_type": "image/jpeg"
+          },
+          "guid": {
+            "_isPermaLink": "false",
+            "__text": "http://www.nasa.gov/content/ceres-seen-from-nasas-dawn-spacecraft"
+          },
+          "pubDate": "Fri, 06 Mar 2015 12:00:00 EDT",
+          "source": {
+            "_url": "http://www.nasa.gov/rss/dyn/image_of_the_day.rss",
+            "__text": "NASA Image of the Day"
+          }
+        },
+        {
+          "title": "Astronaut Scott Kelly Preparing for Launch on One-Year Mission",
+          "link": "http://www.nasa.gov/content/astronaut-scott-kelly-preparing-for-launch-on-one-year-mission",
+          "description": "NASA astronaut Scott Kelly is seen inside a Soyuz simulator at the Gagarin Cosmonaut Training Center (GCTC), Wednesday, March 4, 2015 in Star City, Russia. Kelly, along with Expedition 43 Russian cosmonaut Mikhail Kornienko of the Russian Federal Space Agency (Roscosmos), and Russian cosmonaut Gennady Padalka of Roscosmos were at GCTC for the second day of qualification exams in preparation for their launch to the International Space Station onboard a Soyuz TMA-16M spacecraft from the Baikonur Cosmodrome in Kazakhstan at 3:42 p.m. EST, March 27 (March 28, Kazakh time). As the one-year crew, Kelly and Kornienko will return to Earth on Soyuz TMA-18M in March 2016.Image Credit: NASA/Bill Ingalls",
+          "enclosure": {
+            "_url": "http://www.nasa.gov/sites/default/files/styles/946xvariable_height/public/thumbnails/image/16104674433_c36fae52ea_o.jpg?itok=_kbutlYm",
+            "_length": "3656950",
+            "_type": "image/jpeg"
+          },
+          "guid": {
+            "_isPermaLink": "false",
+            "__text": "http://www.nasa.gov/content/astronaut-scott-kelly-preparing-for-launch-on-one-year-mission"
+          },
+          "pubDate": "Thu, 05 Mar 2015 12:00:00 EDT",
+          "source": {
+            "_url": "http://www.nasa.gov/rss/dyn/image_of_the_day.rss",
+            "__text": "NASA Image of the Day"
+          }
+        },
+        {
+          "title": "Island of Hawaii From the International Space Station",
+          "link": "http://www.nasa.gov/content/island-of-hawaii-from-the-international-space-station",
+          "description": "From the International Space Station, European Space Agency astronaut Samantha Cristoforetti (@AstroSamantha) took this photograph of the island of Hawaii and posted it to social media on Feb. 28, 2015. Cristoforetti wrote, \"And suddenly as we flew over the Pacific... the island of #Hawaii with its volcanoes! #HelloEarth\"\n\nCrewmembers on the space station photograph the Earth from their unique point of view located 200 miles above the surface as part of the Crew Earth Observations program. Photographs record how the planet is changing over time, from human-caused changes like urban growth and reservoir construction, to natural dynamic events such as hurricanes, floods and volcanic eruptions. Astronauts have used hand-held cameras to photograph the Earth for more than 40 years, beginning with the Mercury missions in the early 1960s. The ISS maintains an altitude between 220 - 286 miles (354 - 460 km) above the Earth, and an orbital inclination of 51.6˚, providing an excellent stage for observing most populated areas of the world.\n\nImage Credit: NASA/ESA/Samantha Cristoforetti",
+          "enclosure": {
+            "_url": "http://www.nasa.gov/sites/default/files/styles/946xvariable_height/public/thumbnails/image/16483294159_c75d7de8f5_o.jpg?itok=7l4QM9w0",
+            "_length": "2126105",
+            "_type": "image/jpeg"
+          },
+          "guid": {
+            "_isPermaLink": "false",
+            "__text": "http://www.nasa.gov/content/island-of-hawaii-from-the-international-space-station"
+          },
+          "pubDate": "Wed, 04 Mar 2015 12:00:00 EDT",
+          "source": {
+            "_url": "http://www.nasa.gov/rss/dyn/image_of_the_day.rss",
+            "__text": "NASA Image of the Day"
+          }
+        },
+        {
+          "title": "The NACA Spirit Captured, 1945",
+          "link": "http://www.nasa.gov/content/the-naca-spirit-captured-1945",
+          "description": "In this 1945 photo, test pilots (from left) Mel Gough, Herb Hoover, Jack Reeder, Steve Cavallo and Bill Gray stand in front of a P-47 Thunderbolt. The photo was taken at the then-named Langley Memorial Aeronautical Laboratory, which was a research facility for the National Advisory Committee for Aeronautics, or the NACA.\n\nThe NACA was the main institutional basis for creating NASA in 1958.\n\nOn March 3, 1915 – one hundred years ago -- the U.S. Congress established the NACA in order \"to supervise and direct the scientific study of the problems of flight with a view to their practical solution.\" \n\nFrom humble beginnings with a $5000 budget, no paid staff and no facilities, the NACA won the Collier trophy five times. Its researchers made critical contributions to victory in World War II, spawned a world-leading civil aviation manufacturing industry, propelled supersonic flight, supported national security during the Cold War, and laid the foundation for modern air travel and the space age.\n\nLearn more about the 100th anniversary of the founding of the NACA at www.nasa.gov/naca100.\n\nImage Credit: NASA",
+          "enclosure": {
+            "_url": "http://www.nasa.gov/sites/default/files/styles/946xvariable_height/public/thumbnails/image/7584798180_5155dd9235_o.jpg?itok=hQ5741Vj",
+            "_length": "1158559",
+            "_type": "image/jpeg"
+          },
+          "guid": {
+            "_isPermaLink": "false",
+            "__text": "http://www.nasa.gov/content/the-naca-spirit-captured-1945"
+          },
+          "pubDate": "Tue, 03 Mar 2015 12:00:00 EDT",
+          "source": {
+            "_url": "http://www.nasa.gov/rss/dyn/image_of_the_day.rss",
+            "__text": "NASA Image of the Day"
+          }
+        },
+        {
+          "title": "Astronauts Complete Series of Three Spacewalks",
+          "link": "http://www.nasa.gov/content/astronauts-complete-series-of-three-spacewalks",
+          "description": "On Sunday, March 1, Expedition 42 Flight Engineer Terry Virts and Commander Barry \"Butch\" Wilmore ventured outside the International Space Station for their third spacewalk in eight days. Virts and Wilmore completed installing 400 feet of cable and several antennas associated with the Common Communications for Visiting Vehicles system known as C2V2. Boeing’s Crew Transportation System (CST)-100 and the SpaceX Crew Dragon will use the system in the coming years to rendezvous with the orbital laboratory and deliver crews to the space station.\n\nVirts (@AstroTerry) tweeted this photograph and wrote, \"Out on the P3 truss. #AstroButch handing me his cable to install on the new antenna. #spacewalk\"\n\nImage Credit: NASA",
+          "enclosure": {
+            "_url": "http://www.nasa.gov/sites/default/files/styles/946xvariable_height/public/thumbnails/image/265b5693.jpeg?itok=LBEZiAjQ",
+            "_length": "607466",
+            "_type": "image/jpeg"
+          },
+          "guid": {
+            "_isPermaLink": "false",
+            "__text": "http://www.nasa.gov/content/astronauts-complete-series-of-three-spacewalks"
+          },
+          "pubDate": "Mon, 02 Mar 2015 12:00:00 EDT",
+          "source": {
+            "_url": "http://www.nasa.gov/rss/dyn/image_of_the_day.rss",
+            "__text": "NASA Image of the Day"
+          }
+        },
+        {
+          "title": "Astronaut Salutes Nimoy From Orbit",
+          "link": "http://www.nasa.gov/content/astronaut-salutes-nimoy-from-orbit",
+          "description": "International Space Station astronaut Terry Virts (@AstroTerry) tweeted this image of a Vulcan hand salute from orbit as a tribute to actor Leonard Nimoy, who died on Friday, Feb. 27, 2015. Nimoy played science officer Mr. Spock in the Star Trek series that served as an inspiration to generations of scientists, engineers and sci-fi fans around the world.\n\nCape Cod and Boston, Massachusetts, Nimoy's home town, are visible through the station window.",
+          "enclosure": {
+            "_url": "http://www.nasa.gov/sites/default/files/styles/946xvariable_height/public/thumbnails/image/terry-llap.jpg?itok=rc_6Rgso",
+            "_length": "188169",
+            "_type": "image/jpeg"
+          },
+          "guid": {
+            "_isPermaLink": "false",
+            "__text": "http://www.nasa.gov/content/astronaut-salutes-nimoy-from-orbit"
+          },
+          "pubDate": "Sat, 28 Feb 2015 12:00:00 EDT",
+          "source": {
+            "_url": "http://www.nasa.gov/rss/dyn/image_of_the_day.rss",
+            "__text": "NASA Image of the Day"
+          }
+        },
+        {
+          "title": "Hubble Images a Dusty Galaxy, Home to an Exploding Star",
+          "link": "http://www.nasa.gov/content/goddard/hubble-images-a-dusty-galaxy-home-to-an-exploding-star",
+          "description": "The galaxy pictured here is NGC 4424, located in the constellation of Virgo. It is not visible with the naked eye but has been captured here with the NASA/ESA Hubble Space Telescope.\n\n\n\nAlthough it may not be obvious from this image, NGC 4424 is in fact a spiral galaxy. In this image it is seen more or less edge on, but from above, you would be able to see the arms of the galaxy wrapping around its center to give the characteristic spiral form.\n\n\n\nIn 2012, astronomers observed a supernova in NGC 4424 — a violent explosion marking the end of a star’s life. During a supernova explosion, a single star can often outshine an entire galaxy. However, the supernova in NGC 4424, dubbed SN 2012cg, cannot be seen here as the image was taken ten years prior to the explosion. Along the central region of the galaxy, clouds of dust block the light from distant stars and create dark patches.\n\n\n\nTo the left of NGC 4424 there are two bright objects in the frame. The brightest is another, smaller galaxy known as LEDA 213994 and the object closer to NGC 4424 is an anonymous star in our Milky Way.\n\n\n\nEuropean Space Agency\n\nCredit: ESA/Hubble & NASA, Acknowledgement: Gilles Chapdelaine",
+          "enclosure": {
+            "_url": "http://www.nasa.gov/sites/default/files/styles/946xvariable_height/public/thumbnails/image/potw1508a.jpg?itok=GQrFpOJa",
+            "_length": "262880",
+            "_type": "image/jpeg"
+          },
+          "guid": {
+            "_isPermaLink": "false",
+            "__text": "http://www.nasa.gov/content/goddard/hubble-images-a-dusty-galaxy-home-to-an-exploding-star"
+          },
+          "pubDate": "Fri, 27 Feb 2015 12:00:00 EDT",
+          "source": {
+            "_url": "http://www.nasa.gov/rss/dyn/image_of_the_day.rss",
+            "__text": "NASA Image of the Day"
+          }
+        },
+        {
+          "title": "The Shuttle Enterprise",
+          "link": "http://www.nasa.gov/multimedia/imagegallery/image_feature_1204.html",
+          "description": "In 1976, NASA's space shuttle Enterprise rolled out of the Palmdale manufacturing facilities and was greeted by NASA officials and cast members from the 'Star Trek' television series.\n\nFrom left to right they are: NASA Administrator Dr. James D. Fletcher; DeForest Kelley, who portrayed Dr. \"Bones\" McCoy on the series; George Takei (Mr. Sulu); James Doohan (Chief Engineer Montgomery \"Scotty\" Scott); Nichelle Nichols (Lt. Uhura); Leonard Nimoy (Mr. Spock); series creator Gene Roddenberry;  U.S. Rep. Don Fuqua (D.-Fla.); and, Walter Koenig (Ensign Pavel Chekov).\n\nNASA is mourning the passing today, Feb. 27, 2015, of actor Leonard Nimoy, most famous for his role as Star Trek's Vulcan science officer Mr. Spock. The sci-fi classic served as an inspiration for many at NASA over the years, and Nimoy joined other cast members at special NASA events and worked to promote NASA missions, as in this 2007 video he narrated before the launch of the Dawn mission to the asteroid belt. Nimoy also was there for the 1976 rollout of the shuttle Enterprise, named for the show's iconic spacecraft.\n\nImage Credit: NASA",
+          "enclosure": {
+            "_url": "http://www.nasa.gov/sites/default/files/styles/946xvariable_height/public/images/284702main_GPN-2000-001363_full.jpg?itok=-Uvdg9xz",
+            "_length": "111018",
+            "_type": "image/jpeg"
+          },
+          "guid": {
+            "_isPermaLink": "false",
+            "__text": "http://www.nasa.gov/multimedia/imagegallery/image_feature_1204.html"
+          },
+          "pubDate": "Fri, 27 Feb 2015 12:00:00 EDT",
+          "source": {
+            "_url": "http://www.nasa.gov/rss/dyn/image_of_the_day.rss",
+            "__text": "NASA Image of the Day"
+          }
+        },
+        {
+          "title": "Feb. 26, 1966 Launch of Apollo-Saturn 201",
+          "link": "http://www.nasa.gov/content/apollo-saturn-201-launch",
+          "description": "Apollo-Saturn 201 (AS-201), the first Saturn IB launch vehicle developed by NASA's Marshall Space Flight Center (MSFC), lifts off from Cape Canaveral, Florida, at 11:12 a.m. on Feb. 26, 1966. The AS-201 mission was an unmanned suborbital flight to test the Saturn 1B launch vehicle and the Apollo Command and Service Modules. This was the first flight of the S-IB and S-IVB stages, including the first flight test of the liquid-hydrogen/liquid oxygen-propelled J-2 engine in the S-IVB stage. During the thirty-seven minute flight, the vehicle reached an altitude of 303 miles and traveled 5,264 miles downrange.\n\nImage Credit: NASA",
+          "enclosure": {
+            "_url": "http://www.nasa.gov/sites/default/files/styles/946xvariable_height/public/thumbnails/image/s66-22930_0.jpg?itok=od8t_Zwc",
+            "_length": "786558",
+            "_type": "image/jpeg"
+          },
+          "guid": {
+            "_isPermaLink": "false",
+            "__text": "http://www.nasa.gov/content/apollo-saturn-201-launch"
+          },
+          "pubDate": "Thu, 26 Feb 2015 12:00:00 EDT",
+          "source": {
+            "_url": "http://www.nasa.gov/rss/dyn/image_of_the_day.rss",
+            "__text": "NASA Image of the Day"
+          }
+        },
+        {
+          "title": "Chicago in Winter",
+          "link": "http://www.nasa.gov/content/chicago-in-winter",
+          "description": "From the International Space Station (ISS), European Space Agency astronaut Samantha Cristoforetti took this photograph of Chicago and posted it to social media on Feb. 19, 2015. She wrote, \"How do you like #Chicago dressed for winter?\"\n\nCrewmembers on the space station photograph the Earth from their unique point of view located 200 miles above the surface as part of the Crew Earth Observations program. Photographs record how the planet is changing over time, from human-caused changes like urban growth and reservoir construction, to natural dynamic events such as hurricanes, floods and volcanic eruptions. Astronauts have used hand-held cameras to photograph the Earth for more than 40 years, beginning with the Mercury missions in the early 1960s. The ISS maintains an altitude between 220 - 286 miles (354 - 460 km) above the Earth, and an orbital inclination of 51.6˚, providing an excellent stage for observing most populated areas of the world.\n\nImage Credit: NASA/ESA/Samantha Cristoforetti",
+          "enclosure": {
+            "_url": "http://www.nasa.gov/sites/default/files/styles/946xvariable_height/public/thumbnails/image/16589873002_21c846154d_o.jpg?itok=O-u91h6g",
+            "_length": "3593995",
+            "_type": "image/jpeg"
+          },
+          "guid": {
+            "_isPermaLink": "false",
+            "__text": "http://www.nasa.gov/content/chicago-in-winter"
+          },
+          "pubDate": "Wed, 25 Feb 2015 12:00:00 EDT",
+          "source": {
+            "_url": "http://www.nasa.gov/rss/dyn/image_of_the_day.rss",
+            "__text": "NASA Image of the Day"
+          }
+        },
+        {
+          "title": "Curiosity Self-Portrait at 'Mojave' Site on Mount Sharp",
+          "link": "http://www.nasa.gov/jpl/msl/pia19142",
+          "description": "This self-portrait of NASA's Curiosity Mars rover shows the vehicle at the \"Mojave\" site, where its drill collected the mission's second taste of Mount Sharp.\n\n\n\nThe scene combines dozens of images taken during January 2015 by the Mars Hand Lens Imager (MAHLI) camera at the end of the rover's robotic arm.  The pale \"Pahrump Hills\" outcrop surrounds the rover, and the upper portion of Mount Sharp is visible on the horizon.  Darker ground at upper right and lower left holds ripples of wind-blown sand and dust.\n\n\n\nAn annotated version, Fig. A, labels several of the sites Curiosity has investigated during three passes up the Pahrump Hills outcrop examining the outcrop at increasing levels of detail. The rover used its sample-collecting drill at \"Confidence Hills\" as well as at Mojave, and in late February was assessing \"Telegraph Peak\" as a third drilling site.\n\n\n\nThe view does not include the rover's robotic arm.  Wrist motions and turret rotations on the arm allowed MAHLI to acquire the mosaic's component images. The arm was positioned out of the shot in the images, or portions of images, that were used in this mosaic. This process was used previously in acquiring and assembling Curiosity self-portraits taken at sample-collection sites \"Rocknest\" (http://photojournal.jpl.nasa.gov/catalog/PIA16468), \"John Klein\" (http://photojournal.jpl.nasa.gov/catalog/PIA16937) and \"Windjana\" (http://photojournal.jpl.nasa.gov/catalog/PIA18390).\n\n\n\nCuriosity used its drill to collect a sample of rock powder from target \"Mojave 2\" at this site on Jan. 31, 2015.  The full-depth, sample-collection hole and the shallower preparation test hole beside it are visible in front of the rover in this self-portrait, and in more detail at http://photojournal.jpl.nasa.gov/catalog/PIA19115 .  The Mojave site is in the \"Pink Cliffs\" portion of the Pahrump Hills outcrop. The outcrop is an exposure of the Murray formation, which forms the basal geological layer of Mount Sharp.  Views of Pahrump Hills from other angles are at http://photojournal.jpl.nasa.gov/catalog/PIA19039 and the inset at http://mars.jpl.nasa.gov/msl/multimedia/images/?ImageID=6968 .\n\n\n\nThe frames showing the rover in this mosaic were taken during the 868th Martian day, or sol, of Curiosity's work on Mars (Jan. 14, 2015).  Additional frames around the edges to extend the amount of terrain included in the scene were taken on Sol 882 (Jan. 29, 2015).  The frames showing the drill holes were taken on Sol 884 (Jan. 31, 2015). \n\n\n\nFor scale, the rover's wheels are 20 inches (50 centimeters) in diameter and about 16 inches (40 centimeters) wide.  The drilled holes in the rock are 0.63 inch (1.6 centimeters) in diameter.\n\n\n\nMAHLI was built by Malin Space Science Systems, San Diego. NASA's Jet Propulsion Laboratory, a division of the California Institute of Technology in Pasadena, manages the Mars Science Laboratory Project for the NASA Science Mission Directorate, Washington. JPL designed and built the project's Curiosity rover.\n\n\n\nMore information about Curiosity is online at http://www.nasa.gov/msl and http://mars.jpl.nasa.gov/msl/.\n\n\n\nCredit: NASA/JPL-Caltech/MSSS",
+          "enclosure": {
+            "_url": "http://www.nasa.gov/sites/default/files/styles/946xvariable_height/public/thumbnails/image/pia19142_malhi-mojave.jpg?itok=qpMX_o52",
+            "_length": "34053132",
+            "_type": "image/jpeg"
+          },
+          "guid": {
+            "_isPermaLink": "false",
+            "__text": "http://www.nasa.gov/jpl/msl/pia19142"
+          },
+          "pubDate": "Tue, 24 Feb 2015 12:00:00 EDT",
+          "source": {
+            "_url": "http://www.nasa.gov/rss/dyn/image_of_the_day.rss",
+            "__text": "NASA Image of the Day"
+          }
+        },
+        {
+          "title": "Astronaut Barry Wilmore on the First of Three Spacewalks",
+          "link": "http://www.nasa.gov/content/astronaut-barry-wilmore-on-the-first-of-three-spacewalks",
+          "description": "NASA astronaut Barry Wilmore works outside the International Space Station on the first of three spacewalks preparing the station for future arrivals by U.S. commercial crew spacecraft, Saturday, Feb. 21, 2015. Fellow spacewalker Terry Virts, seen reflected in the visor, shared this photograph on social media.\n\nThe spacewalks are designed to lay cables along the forward end of the U.S. segment to bring power and communication to two International Docking Adapters slated to arrive later this year. The new docking ports will welcome U.S. commercial spacecraft launching from Florida beginning in 2017, permitting the standard station crew size to grow from six to seven and potentially double the amount of crew time devoted to research.\n\nThe second and third spacewalks are planned for Wednesday, Feb. 25 and Sunday, March 1, with Wilmore and Virts participating in all three.\n\nImage Credit: NASA",
+          "enclosure": {
+            "_url": "http://www.nasa.gov/sites/default/files/styles/946xvariable_height/public/thumbnails/image/256a8179_iss042e283178.jpg?itok=H25WOoXT",
+            "_length": "1145266",
+            "_type": "image/jpeg"
+          },
+          "guid": {
+            "_isPermaLink": "false",
+            "__text": "http://www.nasa.gov/content/astronaut-barry-wilmore-on-the-first-of-three-spacewalks"
+          },
+          "pubDate": "Mon, 23 Feb 2015 12:00:00 EDT",
+          "source": {
+            "_url": "http://www.nasa.gov/rss/dyn/image_of_the_day.rss",
+            "__text": "NASA Image of the Day"
+          }
+        },
+        {
+          "title": "John Glenn During the Mercury-Atlas 6 Spaceflight",
+          "link": "http://www.nasa.gov/content/john-glenn-during-the-mercury-atlas-6-spaceflight",
+          "description": "On Feb. 20, 1962, astronaut John H. Glenn, Jr., became the first American to orbit Earth. Launched from Cape Canaveral Launch Complex 14, Glenn's Mercury-Atlas 6 \"Friendship 7\" spacecraft completed a successful three-orbit mission, reaching a maximum altitude (apogee) of approximately 162 statute miles and an orbital velocity of approximately 17,500 miles per hour. The flight lasted a total of 4 hours, 55 minutes, and 23 seconds before the spacecraft splashed down in the ocean. This photograph of John Glenn during the Mercury-Atlas 6 spaceflight was taken by a camera onboard the spacecraft.\n\nImage Credit: NASA",
+          "enclosure": {
+            "_url": "http://www.nasa.gov/sites/default/files/styles/946xvariable_height/public/thumbnails/image/s62-00302.jpg?itok=NdZJ0pLu",
+            "_length": "2205741",
+            "_type": "image/jpeg"
+          },
+          "guid": {
+            "_isPermaLink": "false",
+            "__text": "http://www.nasa.gov/content/john-glenn-during-the-mercury-atlas-6-spaceflight"
+          },
+          "pubDate": "Fri, 20 Feb 2015 12:00:00 EDT",
+          "source": {
+            "_url": "http://www.nasa.gov/rss/dyn/image_of_the_day.rss",
+            "__text": "NASA Image of the Day"
+          }
+        },
+        {
+          "title": "Magnetospheric Multiscale Observatories Processed for Launch",
+          "link": "http://www.nasa.gov/content/magnetospheric-multiscale-observatories-processed-for-launch",
+          "description": "NASA's Magnetospheric Multiscale (MMS) observatories are processed for launch in a clean room at the Astrotech Space Operations facility in Titusville, Florida. MMS is an unprecedented NASA mission to study the mystery of how magnetic fields around Earth connect and disconnect, explosively releasing energy via a process known as magnetic reconnection. MMS consists of four identical spacecraft that work together to provide the first three-dimensional view of this fundamental process, which occurs throughout the universe.\n\nThe mission observes reconnection directly in Earth's protective magnetic space environment, the magnetosphere. By studying reconnection in this local, natural laboratory, MMS helps us understand reconnection elsewhere as well, such as in the atmosphere of the sun and other stars, in the vicinity of black holes and neutron stars, and at the boundary between our solar system's heliosphere and interstellar space.\n\nMMS is a NASA mission led by the Goddard Space Flight Center. The instrument payload science team consists of researchers from a number of institutions and is led by the Southwest Research Institute. Launch of the four identical observatories aboard a United Launch Alliance Atlas V rocket from Space Launch Complex 41 on Cape Canaveral Air Force Station is managed by Kennedy Space Center’s Launch Services Program. Liftoff is currently targeted for 10:44 p.m. EDT on March 12.\n\nImage Credit: NASA/Ben Smegelsky",
+          "enclosure": {
+            "_url": "http://www.nasa.gov/sites/default/files/styles/946xvariable_height/public/thumbnails/image/15953144593_3e251cc522_o.jpg?itok=a0GLfG3U",
+            "_length": "3694368",
+            "_type": "image/jpeg"
+          },
+          "guid": {
+            "_isPermaLink": "false",
+            "__text": "http://www.nasa.gov/content/magnetospheric-multiscale-observatories-processed-for-launch"
+          },
+          "pubDate": "Thu, 19 Feb 2015 12:00:00 EDT",
+          "source": {
+            "_url": "http://www.nasa.gov/rss/dyn/image_of_the_day.rss",
+            "__text": "NASA Image of the Day"
+          }
+        },
+        {
+          "title": "Snow-Covered Northeastern United States",
+          "link": "http://www.nasa.gov/content/snow-covered-northeastern-united-states",
+          "description": "Yet another potent winter storm battered the northeastern United States on Feb. 14-15, 2015. The nor'easter brought 12 to 20 inches (30 to 50 centimeters) of snow across much of eastern New England, along with tropical storm force winds over 60 miles (100 kilometers) per hour. The latest snowfall pushed Boston to its highest monthly total on record—58 inches and counting—and its third highest yearly snow total.\n\nThis image shows the snow-covered northeastern states as observed on Feb. 16, 2015, by the Moderate Resolution Imaging Spectroradiometer (MODIS) on NASA’s Terra satellite. Cloud streets over the Atlantic Ocean in both images hint at the potent winds blowing across the East Coast from the Canadian interior. Following the blizzard, temperatures dropped as low as -30 degrees Fahrenheit (-34° Celsius) in parts of New England.\n\nWhat the images do not show is snow depth. With the latest storm, nearly 8 feet (2.4 meters) of snow has fallen on the city of Boston in just three weeks. With temperatures persistently below freezing, very little snow has melted. According to National Climatic Data Center statistics the snow depth just south of Boston was roughly 42 inches (107 centimeters). Totals were above 30 inches (76 centimeters) in many locations in Maine, New Hampshire, and Massachusetts.\n\nAs of Feb. 17, the snow depth near Boston was greater than in all but two reported locations in Alaska. It was significantly higher than the notoriously snowy states of Michigan, Wisconsin, and Minnesota. Only Buffalo, New York, had a higher snow pack.\n\nOn Feb. 16-17, more snow and ice fell across the eastern United States from northern Mississippi all the way to Maine.\n\nImage Credit: NASA/Jeff Schmaltz, LANCE/EOSDIS Rapid Response, NASA Goddard Space Flight Center\nCaption: Mike Carlowicz",
+          "enclosure": {
+            "_url": "http://www.nasa.gov/sites/default/files/styles/946xvariable_height/public/thumbnails/image/useastcoast_tmo_2015047_lrg.jpg?itok=7keUh9F2",
+            "_length": "4190393",
+            "_type": "image/jpeg"
+          },
+          "guid": {
+            "_isPermaLink": "false",
+            "__text": "http://www.nasa.gov/content/snow-covered-northeastern-united-states"
+          },
+          "pubDate": "Wed, 18 Feb 2015 12:00:00 EDT",
+          "source": {
+            "_url": "http://www.nasa.gov/rss/dyn/image_of_the_day.rss",
+            "__text": "NASA Image of the Day"
+          }
+        },
+        {
+          "title": "Dawn Approaches: Two Faces of Ceres",
+          "link": "http://www.nasa.gov/jpl/dawn/pia19056",
+          "description": "These two views of Ceres were acquired by NASA's Dawn spacecraft on Feb. 12, 2015, from a distance of about 52,000 miles (83,000 kilometers) as the dwarf planet rotated. The images have been magnified from their original size.\n\n\n\nThe Dawn spacecraft is due to arrive at Ceres on March 6, 2015.\n\n\n\nDawn's mission to Vesta and Ceres is managed by the Jet Propulsion Laboratory for NASA's Science Mission Directorate in Washington. Dawn is a project of the directorate's Discovery Program, managed by NASA's Marshall Space Flight Center in Huntsville, Alabama. UCLA is responsible for overall Dawn mission science. Orbital ATK, Inc., of Dulles, Virginia, designed and built the spacecraft. JPL is managed for NASA by the California Institute of Technology in Pasadena. The framing cameras were provided by the Max Planck Institute for Solar System Research, Göttingen, Germany, with significant contributions by the German Aerospace Center (DLR) Institute of Planetary Research, Berlin, and in coordination with the Institute of Computer and Communication Network Engineering, Braunschweig. The visible and infrared mapping spectrometer was provided by the Italian Space Agency and the Italian National Institute for Astrophysics, built by Selex ES, and is managed and operated by the Italian Institute for Space Astrophysics and Planetology, Rome. The gamma ray and neutron detector was built by Los Alamos National Laboratory, New Mexico, and is operated by the Planetary Science Institute, Tucson, Arizona.\n\n\n\nImage Credit: NASA/JPL-Caltech/UCLA/MPS/DLR/IDA",
+          "enclosure": {
+            "_url": "http://www.nasa.gov/sites/default/files/styles/946xvariable_height/public/thumbnails/image/pia19056_main.jpg?itok=rZgU39aA",
+            "_length": "724869",
+            "_type": "image/jpeg"
+          },
+          "guid": {
+            "_isPermaLink": "false",
+            "__text": "http://www.nasa.gov/jpl/dawn/pia19056"
+          },
+          "pubDate": "Tue, 17 Feb 2015 12:00:00 EDT",
+          "source": {
+            "_url": "http://www.nasa.gov/rss/dyn/image_of_the_day.rss",
+            "__text": "NASA Image of the Day"
+          }
+        },
+        {
+          "title": "Growing Deltas in Atchafalaya Bay",
+          "link": "http://www.nasa.gov/content/growing-deltas-in-atchafalaya-bay",
+          "description": "The delta plain of the Mississippi River is disappearing. The lobe-shaped arc of coastal land from the Chandeleur Islands in eastern Louisiana to the Sabine River loses a football field’s worth of land every hour. Put another way, the delta has shrunk by nearly 5,000 square kilometers (2,000 square miles) over the past 80 years. That’s as if most of Delaware had sunk into the sea.\n\nThough land losses are widely distributed across the 300 kilometer (200 mile) wide coastal plain of Louisiana, Atchafalaya Bay stands as a notable exception. In a swampy area south of Morgan City, new land is forming at the mouths of the Wax Lake Outlet and the Atchafalaya River. Wax Lake Outlet is an artificial channel that diverts some of the river’s flow into the bay about 16 kilometers (10 miles) west of where the main river empties.\n\nBoth deltas are being built by sediment carried by the Atchafalaya River. The Atchafalaya is a distributary of the Mississippi River, connecting to the “Big Muddy” in south central Louisiana near Simmesport. Studies of the geologic history of the meandering Mississippi have shown that—if left to nature—most of the river’s water would eventually flow down the Atchafalaya. But the Old River Control Structure, built in the 1960s by the U.S. Army Corps of Engineers, ensures that only 30 percent of the Mississippi flows into the Atchafalaya River, while the rest of the keeps moving toward Baton Rouge and New Orleans.\n\nMore information.\n\nImage Credit: NASA/Earth Observatory",
+          "enclosure": {
+            "_url": "http://www.nasa.gov/sites/default/files/styles/946xvariable_height/public/thumbnails/image/waxlake_2014298_lrg.jpg?itok=YCcg7-Ax",
+            "_length": "2883776",
+            "_type": "image/jpeg"
+          },
+          "guid": {
+            "_isPermaLink": "false",
+            "__text": "http://www.nasa.gov/content/growing-deltas-in-atchafalaya-bay"
+          },
+          "pubDate": "Fri, 13 Feb 2015 12:00:00 EDT",
+          "source": {
+            "_url": "http://www.nasa.gov/rss/dyn/image_of_the_day.rss",
+            "__text": "NASA Image of the Day"
+          }
+        },
+        {
+          "title": "NASA's Stratospheric Observatory for Infrared Astronomy",
+          "link": "http://www.nasa.gov/content/nasas-stratospheric-observatory-for-infrared-astronomy",
+          "description": "NASA's Stratospheric Observatory for Infrared Astronomy (SOFIA) enters the Lufthansa Technik hangar in Hamburg, Germany for its decadal inspection. Flight, aircraft maintenance, and science personnel from the Armstrong Flight Research Center worked alongside Lufthansa's 747 specialists to perform a wide range of inspections and maintenance.\n\nWater vapor in the Earth's atmosphere absorbs infrared radiation, preventing a large section of the infrared spectrum from reaching ground-based observatories. SOFIA is a heavily modified Boeing 747 Special Performance jetliner that flies at altitudes between 39,000 to 45,000 feet (12 to 14 km), above more than 99 percent of Earth's atmospheric water vapor giving astronomers the ability to study celestial objects at wavelengths that cannot be seen from ground-based observatories.\n\nMore information on SOFIA.\n\nImage Credit: NASA/ Jeff Doughty",
+          "enclosure": {
+            "_url": "http://www.nasa.gov/sites/default/files/styles/946xvariable_height/public/thumbnails/image/10518634_10201389444656533_1897067746451132405_n.jpg?itok=lDSkAYtv",
+            "_length": "75088",
+            "_type": "image/jpeg"
+          },
+          "guid": {
+            "_isPermaLink": "false",
+            "__text": "http://www.nasa.gov/content/nasas-stratospheric-observatory-for-infrared-astronomy"
+          },
+          "pubDate": "Thu, 12 Feb 2015 12:00:00 EDT",
+          "source": {
+            "_url": "http://www.nasa.gov/rss/dyn/image_of_the_day.rss",
+            "__text": "NASA Image of the Day"
+          }
+        },
+        {
+          "title": "Giant Filament Seen on the Sun",
+          "link": "http://www.nasa.gov/content/goddard/sdo/giant-filament-seen-on-the-sun-feb-10-2015",
+          "description": "A dark, snaking line across the lower half of the sun in this Feb. 10, 2015 image from NASA's Solar Dynamics Observatory (SDO) shows a filament of solar material hovering above the sun's surface. SDO shows colder material as dark and hotter material as light, so the line is, in fact, an enormous swatch of colder material hovering in the sun's atmosphere, the corona. Stretched out, that line – or solar filament as scientists call it – would be more than 533,000 miles long. That is longer than 67 Earths lined up in a row. Filaments can float sedately for days before disappearing. Sometimes they also erupt out into space, releasing solar material in a shower that either rains back down or escapes out into space, becoming a moving cloud known as a coronal mass ejection, or CME. SDO captured images of the filament in numerous wavelengths, each of which helps highlight material of different temperatures on the sun. By looking at such features in different wavelengths and temperatures, scientists learn more about what causes these structures, as well as what catalyzes their occasional eruptions.\n\nLaunched on Feb. 11, 2010 aboard a ULA Atlas V rocket from Cape Canaveral Air Force Station, Fla., NASA's Solar Dynamics Observatory is designed to study the causes of solar variability and its impacts on Earth. The spacecraft's long-term measurements give solar scientists in-depth information to help characterize the interior of the sun, the sun's magnetic field, the hot plasma of the solar corona, and the density of radiation that creates the ionosphere of the planets. The information is used to create better forecasts of space weather needed to protect aircraft, satellites and astronauts living and working in space.\n\nImage Credit: NASA/SDO",
+          "enclosure": {
+            "_url": "http://www.nasa.gov/sites/default/files/styles/946xvariable_height/public/thumbnails/image/20150210_175456_4096_0304.jpg?itok=MUFGzSsJ",
+            "_length": "3545395",
+            "_type": "image/jpeg"
+          },
+          "guid": {
+            "_isPermaLink": "false",
+            "__text": "http://www.nasa.gov/content/goddard/sdo/giant-filament-seen-on-the-sun-feb-10-2015"
+          },
+          "pubDate": "Wed, 11 Feb 2015 12:00:00 EDT",
+          "source": {
+            "_url": "http://www.nasa.gov/rss/dyn/image_of_the_day.rss",
+            "__text": "NASA Image of the Day"
+          }
+        },
+        {
+          "title": "Hubble Sees A Smiling Lens",
+          "link": "http://www.nasa.gov/content/hubble-sees-a-smiling-lens",
+          "description": "In the center of this image, taken with the NASA/ESA Hubble Space Telescope, is the galaxy cluster SDSS J1038+4849 — and it seems to be smiling.\n\nYou can make out its two orange eyes and white button nose. In the case of this “happy face”, the two eyes are very bright galaxies and the misleading smile lines are actually arcs caused by an effect known as strong gravitational lensing.\n\nGalaxy clusters are the most massive structures in the Universe and exert such a powerful gravitational pull that they warp the spacetime around them and act as cosmic lenses which can magnify, distort and bend the light behind them. This phenomenon, crucial to many of Hubble’s discoveries, can be explained by Einstein’s theory of general relativity.\n\nIn this special case of gravitational lensing, a ring — known as an Einstein Ring — is produced from this bending of light, a consequence of the exact and symmetrical alignment of the source, lens and observer and resulting in the ring-like structure we see here.\n\nHubble has provided astronomers with the tools to probe these massive galaxies and model their lensing effects, allowing us to peer further into the early Universe than ever before. This object was studied by Hubble’s Wide Field and Planetary Camera 2 (WFPC2) and Wide Field Camera 3 (WFC3) as part of a survey of strong lenses.\n\nA version of this image was entered into the Hubble’s Hidden Treasures image processing competition by contestant Judy Schmidt.\n\nImage Credit: NASA/ESA\nCaption: ESA\n\n> More information and image products",
+          "enclosure": {
+            "_url": "http://www.nasa.gov/sites/default/files/styles/946xvariable_height/public/thumbnails/image/15861603283_3579db3fc6_o.jpg?itok=R-xy6VGM",
+            "_length": "208497",
+            "_type": "image/jpeg"
+          },
+          "guid": {
+            "_isPermaLink": "false",
+            "__text": "http://www.nasa.gov/content/hubble-sees-a-smiling-lens"
+          },
+          "pubDate": "Tue, 10 Feb 2015 12:00:00 EDT",
+          "source": {
+            "_url": "http://www.nasa.gov/rss/dyn/image_of_the_day.rss",
+            "__text": "NASA Image of the Day"
+          }
+        },
+        {
+          "title": "Space Station Flyover of Gulf of Aden and Horn of Africa",
+          "link": "http://www.nasa.gov/content/space-station-flyover-of-gulf-of-aden-and-horn-of-africa",
+          "description": "European Space Agency astronaut Samantha Cristoforetti took this photograph from the International Space Station and posted it to social media on Jan. 30, 2015. Cristoforetti wrote, \"A spectacular flyover of the Gulf of Aden and the Horn of Africa. #HelloEarth\"\n\nImage Credit: NASA/ESA/Samantha Cristoforetti",
+          "enclosure": {
+            "_url": "http://www.nasa.gov/sites/default/files/styles/946xvariable_height/public/thumbnails/image/10959945_352404438298334_3498583641010450205_o.jpg?itok=Ru19G-ap",
+            "_length": "339444",
+            "_type": "image/jpeg"
+          },
+          "guid": {
+            "_isPermaLink": "false",
+            "__text": "http://www.nasa.gov/content/space-station-flyover-of-gulf-of-aden-and-horn-of-africa"
+          },
+          "pubDate": "Mon, 09 Feb 2015 12:00:00 EDT",
+          "source": {
+            "_url": "http://www.nasa.gov/rss/dyn/image_of_the_day.rss",
+            "__text": "NASA Image of the Day"
+          }
+        },
+        {
+          "title": "Hubble's Little Sombrero",
+          "link": "http://www.nasa.gov/content/goddard/hubbles-little-sombrero",
+          "description": "Galaxies can take many shapes and be oriented any way relative to us in the sky. This can make it hard to figure out their actual morphology, as a galaxy can look very different from different viewpoints. A special case is when we are lucky enough to observe a spiral galaxy directly from its edge, providing us with a spectacular view like the one seen in this picture of the week.\n\nThis is NGC 7814, also known as the “Little Sombrero.” Its larger namesake, the Sombrero Galaxy, is another stunning example of an edge-on galaxy — in fact, the “Little Sombrero” is about the same size as its bright namesake at about 60,000 light-years across, but as it lies farther away, and so appears smaller in the sky.\n\nNGC 7814 has a bright central bulge and a bright halo of glowing gas extending outwards into space. The dusty spiral arms appear as dark streaks. They consist of dusty material that absorbs and blocks light from the galactic center behind it. The field of view of this NASA/ESA Hubble Space Telescope image would be very impressive even without NGC 7814 in front; nearly all the objects seen in this image are galaxies as well.\n\n\n\n\nEuropean Space Agency\n\nCredit: ESA/Hubble & NASA\nAcknowledgement: Josh Barrington",
+          "enclosure": {
+            "_url": "http://www.nasa.gov/sites/default/files/styles/946xvariable_height/public/thumbnails/image/potw1505a.jpg?itok=ugcP4teK",
+            "_length": "119344",
+            "_type": "image/jpeg"
+          },
+          "guid": {
+            "_isPermaLink": "false",
+            "__text": "http://www.nasa.gov/content/goddard/hubbles-little-sombrero"
+          },
+          "pubDate": "Fri, 06 Feb 2015 12:00:00 EDT",
+          "source": {
+            "_url": "http://www.nasa.gov/rss/dyn/image_of_the_day.rss",
+            "__text": "NASA Image of the Day"
+          }
+        },
+        {
+          "title": "Forty-Four Years Ago Today: Apollo 14 Touches Down on the Moon",
+          "link": "http://www.nasa.gov/content/forty-four-years-ago-today-apollo-14-touches-down-on-the-moon",
+          "description": "On Feb. 5. 1971, the Apollo 14 crew module landed on the moon. The crew members were Captain Alan Bartlett Shepard, Jr. (USN), commander; Major Stuart Allen Roosa (USAF), command module pilot; and Commander Edgar Dean Mitchell (USN), lunar module pilot. In this photo, Shepard stands by the Modular Equipment Transporter (MET). The MET was a cart for carrying around tools, cameras and sample cases on the lunar surface. Shepard can be identified by the vertical stripe on his helmet. After Apollo 13, the commander's spacesuit had red stripes on the helmet, arms, and one leg, to help identify them in photographs.\n\nImage Credit: NASA",
+          "enclosure": {
+            "_url": "http://www.nasa.gov/sites/default/files/styles/946xvariable_height/public/gpn-2000-001147.jpg?itok=T6TaIs-o",
+            "_length": "4704859",
+            "_type": "image/jpeg"
+          },
+          "guid": {
+            "_isPermaLink": "false",
+            "__text": "http://www.nasa.gov/content/forty-four-years-ago-today-apollo-14-touches-down-on-the-moon"
+          },
+          "pubDate": "Thu, 05 Feb 2015 12:00:00 EDT",
+          "source": {
+            "_url": "http://www.nasa.gov/rss/dyn/image_of_the_day.rss",
+            "__text": "NASA Image of the Day"
+          }
+        },
+        {
+          "title": "Curiosity Rover at 'Pahrump Hills'",
+          "link": "http://www.nasa.gov/jpl/mro/pia19114",
+          "description": "NASA's Curiosity Mars rover can be seen at the \"Pahrump Hills\" area of Gale Crater in this view from the High Resolution Imaging Science Experiment (HiRISE) camera on NASA's Mars Reconnaissance Orbiter.  Pahrump Hills is an outcrop at the base of Mount Sharp. The region contains sedimentary rocks that scientists believe formed in the presence of water.\n\n\n\nThe location of the rover, with its shadow extending toward the upper right, is indicated with an inscribed rectangle. Figure A is an unannotated version of the image.  North is toward the top. The view covers an area about 360 yards (330 meters) across. \n\n\n\nHiRISE made the observation on Dec. 13, 2014. At that time, Curiosity was near a feature called \"Whale Rock.\"  A map showing the rover's path for the weeks leading up to that date is at http://mars.jpl.nasa.gov/msl/multimedia/images/?ImageID=6884 .  The inset map at http://mars.jpl.nasa.gov/msl/multimedia/images/?ImageID=6913 labels the location of Whale Rock and other features in the Pahrump Hills area.\n\n\n\nThe bright features in the landscape are sedimentary rock and the dark areas are sand.  The HiRISE team plans to periodically image Curiosity, as well as NASA's other active Mars rover, Opportunity, as the vehicles continue to explore Mars.\n\n\n\nThis image is an excerpt from HiRISE observation ESP_039280_1755. Other image products from this observation are available at http://hirise.lpl.arizona.edu/ESP_039280_1755 .\n\n\n\nThe University of Arizona, Tucson, operates HiRISE, which was built by Ball Aerospace & Technologies Corp., Boulder, Colorado. NASA's Jet Propulsion Laboratory, a division of the California Institute of Technology in Pasadena, manages the Mars Reconnaissance Orbiter Project and Mars Science Laboratory Project for NASA's Science Mission Directorate, Washington. \n\n\n\nImage Credit: NASA/JPL-Caltech/Univ. of Arizona",
+          "enclosure": {
+            "_url": "http://www.nasa.gov/sites/default/files/styles/946xvariable_height/public/thumbnails/image/pia19114_esp_039280_1755.jpg?itok=IWPekflH",
+            "_length": "3396311",
+            "_type": "image/jpeg"
+          },
+          "guid": {
+            "_isPermaLink": "false",
+            "__text": "http://www.nasa.gov/jpl/mro/pia19114"
+          },
+          "pubDate": "Wed, 04 Feb 2015 12:00:00 EDT",
+          "source": {
+            "_url": "http://www.nasa.gov/rss/dyn/image_of_the_day.rss",
+            "__text": "NASA Image of the Day"
+          }
+        },
+        {
+          "title": "'State of NASA' Address at Kennedy Space Center",
+          "link": "http://www.nasa.gov/content/state-of-nasa-address-at-kennedy-space-center",
+          "description": "In the Neil Armstrong Operations and Checkout Building high bay at NASA's Kennedy Space Center in Florida, NASA Administrator Charles Bolden delivers a “state of the agency” address on Feb. 2, 2015 at NASA's televised fiscal year 2016 budget rollout event with Kennedy Space Center Director Bob Cabana looking on, at right. Representatives from the Kennedy workforce, news media and social media were in attendance. NASA's Orion, SpaceX Dragon and Boeing CST-100 spacecraft, all destined to play a role in NASA’s overall exploration objectives, were on display.\n\nPhoto credit: NASA/Amber Watson",
+          "enclosure": {
+            "_url": "http://www.nasa.gov/sites/default/files/styles/946xvariable_height/public/thumbnails/image/16243540759_3dac753ae6_o.jpg?itok=77-MVZH2",
+            "_length": "3959281",
+            "_type": "image/jpeg"
+          },
+          "guid": {
+            "_isPermaLink": "false",
+            "__text": "http://www.nasa.gov/content/state-of-nasa-address-at-kennedy-space-center"
+          },
+          "pubDate": "Tue, 03 Feb 2015 12:00:00 EDT",
+          "source": {
+            "_url": "http://www.nasa.gov/rss/dyn/image_of_the_day.rss",
+            "__text": "NASA Image of the Day"
+          }
+        },
+        {
+          "title": "Cloud Streets in the Bering Sea",
+          "link": "http://www.nasa.gov/content/cloud-streets-in-the-bering-sea",
+          "description": "Ice, wind, cold temperatures and ocean waters combined to created dramatic cloud formations over the Bering Sea in late January, 2015. The Moderate Resolution Imaging Spectroradiometer (MODIS) aboard NASA's Aqua satellite passed over the region and captured this true-color image on Jan. 23.\n\nThe frozen tundra of Russia lies in the northwest of the image, and snow-covered Alaska lies in the northeast. Sea ice extends from the land well into the Bering Sea. Over the dark water bright white clouds line in up close, parallel rows. These formations are known as “cloud streets”.\n\nAir blowing over the cold, snowy land and then over ice becomes both cold and dry. When the air then moves over relatively warmer and much moister water and lead to the development of parallel cylinders of spinning air. On the upper edge of these cylinders of air, where the air is rising, small clouds form. Where air is descending, the skies are clear. This clear/cloudy pattern, formed in parallel rows, gives the impression of streets.\n\nThe clouds begin over the sea ice, but they primarily hang over open ocean. The streets are neat and in tight rows closest to land, while further over the Bering Sea the pattern widens and begins to become more random. The rows of clouds are also not perfectly straight, but tend to curve. The strength and direction of the wind helps create these features: where the wind is strongest, nearest to shore, the clouds line up most neatly. The clouds align with the wind direction, so the direction of the streets gives strong clues to prevailing wind direction.\n\nImage Credit: NASA/Jeff Schmaltz, MODIS Land Rapid Response Team, NASA GSFC",
+          "enclosure": {
+            "_url": "http://www.nasa.gov/sites/default/files/styles/946xvariable_height/public/thumbnails/image/image02022015_250m.jpg?itok=ZwkOy0T4",
+            "_length": "6537932",
+            "_type": "image/jpeg"
+          },
+          "guid": {
+            "_isPermaLink": "false",
+            "__text": "http://www.nasa.gov/content/cloud-streets-in-the-bering-sea"
+          },
+          "pubDate": "Mon, 02 Feb 2015 12:00:00 EDT",
+          "source": {
+            "_url": "http://www.nasa.gov/rss/dyn/image_of_the_day.rss",
+            "__text": "NASA Image of the Day"
+          }
+        }
+      ]
+    },
+    "_xmlns:atom": "http://www.w3.org/2005/Atom",
+    "_xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "_xmlns:itunes": "http://www.itunes.com/dtds/podcast-1.0.dtd",
+    "_xmlns:media": "http://search.yahoo.com/mrss/",
+    "_version": "2.0",
+    "_xml:base": "http://www.nasa.gov/"
+  }
+}
