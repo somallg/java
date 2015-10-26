@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE xml>
+<!--
+    Defines which repository items are generally included
+    
+    See https://jackrabbit.apache.org/filevault/filter.html for details
+-->
+<workspaceFilter vesion="1.0">
+	<!-- Make sure content exists -->
+	<filter root="/content"/>
+
+    <filter root="/content/example"/>
+    <filter root="/apps/example"/>
+
+    <filter root="/content/somallg"/>
+    <filter root="/apps/somallg"/>
+</workspaceFilter>
