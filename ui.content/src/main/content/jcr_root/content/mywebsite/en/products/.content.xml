@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:sling="http://sling.apache.org/jcr/sling/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0"
+    jcr:primaryType="cq:Page">
+    <jcr:content
+        cq:lastModified="{Date}2015-01-21T18:51:56.991+08:00"
+        cq:lastModifiedBy="admin"
+        cq:template="/apps/mywebsite/templates/contentpage"
+        jcr:primaryType="cq:PageContent"
+        jcr:title="Products"
+        sling:resourceType="mywebsite/components/contentpage"
+        navTitle="what we do">
+        <newslist
+            jcr:lastModified="{Date}2015-01-21T18:51:56.987+08:00"
+            jcr:lastModifiedBy="admin"
+            jcr:primaryType="nt:unstructured"
+            sling:resourceType="mywebsite/components/listChildren"
+            listroot="/content/mywebsite/en/products"/>
+        <par
+            jcr:primaryType="nt:unstructured"
+            sling:resourceType="foundation/components/parsys">
+            <image
+                jcr:created="{Date}2015-01-08T18:16:32.452+07:00"
+                jcr:createdBy="admin"
+                jcr:lastModified="{Date}2015-01-08T18:16:41.309+07:00"
+                jcr:lastModifiedBy="admin"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="mywebsite/components/image"
+                imageReference="/content/dam/projects/shapes/cover"/>
+        </par>
+        <image
+            jcr:lastModified="{Date}2015-01-21T18:33:15.969+08:00"
+            jcr:lastModifiedBy="admin"
+            jcr:primaryType="nt:unstructured"
+            imageRotate="0"/>
+    </jcr:content>
+    <product1/>
+    <product2/>
+</jcr:root>

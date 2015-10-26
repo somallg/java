@@ -1,0 +1,183 @@
+body {
+	background-color: 	#b5a789;
+	font-family: 		Georgia, "Times New Roman", Times, serif;
+	font-size: 			small;
+	margin: 			0px;
+}
+
+#tableContainer {
+	display: 			table;
+	border-spacing: 	10px;
+	
+}
+
+#tableRow {
+	display: 			table-row;
+}
+
+/* #allcontent { 
+	width: 				800px;
+	padding-top: 		5px;
+	padding-bottom: 	5px;
+	background-color: 	#675c47;
+	margin-left: 		auto;
+	margin-right: 		auto;
+} */
+
+header.top {
+	background-color:	#675c47;
+	margin: 		  	10px 10px 0px 10px;
+	height: 			108px;
+}
+
+header.top div#headerSlogan {
+	float: right;
+}
+
+#award {
+	position:			absolute;
+	top:				30px;
+	left:				365px;
+}
+
+#coupon {
+	position: 			relative;
+	top:				0px;
+	left:				-90px;
+}
+
+#coupon a, img {
+	border: none;
+}
+
+
+/* #main {
+	background:			#efe5d0 url(images/background.gif) top left;
+	font-size: 			105%;
+	padding:			15px;
+	margin:				0px 10px 10px 10px;
+	width: 				420px;
+	float:				left;
+} */
+
+/* absolute position */
+/* #main {
+	background: 		#efe5d0 url(images/background.gif) top left;
+	font-size:			105%;
+	padding:			15px;
+	margin: 			0px 330px 10px 10px;
+} */
+
+/* display table */
+section#main {
+	display:			table-cell;
+	background: 		#efe5d0 url(images/background.gif) top left;
+	font-size:			105%;
+	padding:			15px;
+	vertical-align: 	top;
+}
+
+/* #sidebar {
+	background: 		#efe5d0 url(images/background.gif) bottom right;
+	font-size:			105%;
+	padding:			15px;
+	margin:				0px 10px 10px 470px;
+	
+	width: 				280px;
+	float: 				right; 
+	
+} */
+
+/* absolute position */
+/* #sidebar {
+	background: 		#efe5d0 url(images/background.gif) bottom right;
+	font-size: 			105%;
+	padding: 			15px;
+	margin: 			0px 10px 10px 10px;
+	position: 			absolute;
+	top:				128px;
+	right: 				0px;
+	width: 				280px;
+} */
+
+/* display table */
+aside {
+	display:			table-cell;
+	background: 		#efe5d0 url(images/background.gif) bottom right;
+	font-size:			105%;
+	padding:			15px;
+	vertical-align: 	top;
+}
+
+
+footer {
+	background-color:	#675c47;
+	color:				#efe5d0;
+	text-align:			center;
+	padding:			15px;
+	font-size:			90%;
+}
+
+#myImg {
+	float: 				right;
+}
+
+h1 {
+	font-size: 			120%;
+	color:				#954b4b;
+}
+
+.slogan {
+	color: 				#954b4b;
+}
+
+.beanheading {
+	text-align: 		center;
+	line-height: 		1.8em;
+}
+
+section#drinks {
+	display:			table-cell;
+	background-color: 	#efe5d0;
+	width:				20%;
+	padding:			15px;
+	vertical-align: 	top;
+}
+
+a:link {
+	color:				#b76666;
+	text-decoration: 	none;
+	border-bottom: 		thin dotted #b76666;
+}
+
+a:visited {
+	color: 				#675c47;
+	text-decoration: 	none;
+	border-bottom: 		thin dotted #675c47;
+}
+
+nav {
+	background-color: 	#efe5d0;
+	margin:				10px 10px 0px 10px;
+}
+
+nav ul {
+	margin: 			0px;
+	list-style-type: 	none;
+	padding:			5px 0px 5px 0px;
+}
+
+nav ul li {
+	display: 			inline;
+	padding:			5px 10px 5px 10px;
+}
+
+nav ul li a:link, nav ul li a:visited {
+	color: 				#954b4b;
+	border-bottom: 		none;
+	font-weight: 		bold;
+}
+
+nav ul li.selected {
+	background-color: 	#c8b99c;
+}

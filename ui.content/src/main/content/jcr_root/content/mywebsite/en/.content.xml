@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:sling="http://sling.apache.org/jcr/sling/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0"
+    jcr:primaryType="cq:Page">
+    <jcr:content
+        cq:designPath="/etc/designs/mywebsite"
+        cq:lastModified="{Date}2015-01-07T16:01:07.425+07:00"
+        cq:lastModifiedBy="admin"
+        cq:template="/apps/mywebsite/templates/contentpage"
+        jcr:primaryType="cq:PageContent"
+        jcr:title="English"
+        sling:resourceType="mywebsite/components/contentpage">
+        <image
+            jcr:lastModified="{Date}2015-01-07T16:01:07.362+07:00"
+            jcr:lastModifiedBy="admin"
+            jcr:primaryType="nt:unstructured"
+            imageRotate="0"/>
+    </jcr:content>
+    <products/>
+    <services/>
+    <customers/>
+    <toolbar/>
+</jcr:root>

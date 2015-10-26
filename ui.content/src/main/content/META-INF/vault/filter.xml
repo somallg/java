@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workspaceFilter version="1.0">
+    <filter root="/content/aemtraining"/>
+    <filter root="/content/dam/aemtraining"/>
+    <filter root="/content/mywebsite"/>
+    <filter root="/content/somallg"/>
+    <filter root="/content/dam/somallg"/>
+</workspaceFilter>

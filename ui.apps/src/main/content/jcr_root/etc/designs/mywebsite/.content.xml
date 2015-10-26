@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:sling="http://sling.apache.org/jcr/sling/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0"
+    jcr:primaryType="cq:Page">
+    <jcr:content
+        cq:lastModified="{Date}2015-01-21T19:24:17.415+08:00"
+        cq:lastModifiedBy="admin"
+        cq:template="/libs/wcm/core/templates/designpage"
+        jcr:primaryType="cq:PageContent"
+        jcr:title="mywebsite"
+        sling:resourceType="wcm/core/components/designer">
+        <contentpage jcr:primaryType="nt:unstructured">
+            <logo
+                jcr:lastModified="{Date}2015-01-21T19:24:17.409+08:00"
+                jcr:lastModifiedBy="admin"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="mywebsite/components/logo"
+                imageName="logo.png">
+                <image/>
+            </logo>
+            <par
+                jcr:lastModified="{Date}2015-01-09T10:23:19.884+07:00"
+                jcr:lastModifiedBy="admin"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="foundation/components/parsys"
+                components="[/libs/foundation/components/image,/apps/mywebsite/components/image,/apps/mywebsite/components/search]">
+                <section jcr:primaryType="nt:unstructured"/>
+            </par>
+        </contentpage>
+    </jcr:content>
+    <images/>
+    <static.css/>
+</jcr:root>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workspaceFilter version="1.0">
+	<filter root="/apps/aemtraining">
+		<exclude pattern="/apps/aemtraining/install" />
+	</filter>
+	<filter root="/apps/sling" />
+    <filter root="/etc/designs/aemtraining"/>
+
+	<filter root="/apps/mywebsite">
+		<exclude pattern="/apps/mywebsite/install" />
+	</filter>
+    <filter root="/etc/designs/mywebsite"/>
+	
+	<filter root="/apps/somallg"/>
+    <filter root="/etc/designs/somallgDesign"/>
+	<filter root="/etc/somallg"/>
+</workspaceFilter>
