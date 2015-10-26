@@ -1,0 +1,27 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <Button
+        android:id="@+id/btn_dialog"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:onClick="onClick"
+        android:text="Click to display a dialog" />
+
+    <Button
+        android:id="@+id/btn_dialog2"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="Click to display a progress dialog"
+        android:onClick="onClick2"/>
+
+    <Button
+        android:id="@+id/btn_dialog3"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="Click to display a detailed progress dialog"
+        android:onClick="onClick3"/>
+
+</LinearLayout>

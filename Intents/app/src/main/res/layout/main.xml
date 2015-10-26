@@ -1,0 +1,34 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <Button
+        android:id="@+id/btn_webbrowser"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:onClick="onClickWebBrowser"
+        android:text="Web Browser" />
+
+    <Button
+        android:id="@+id/btn_makecalls"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:onClick="onClickMakeCalls"
+        android:text="Make Calls" />
+
+    <Button
+        android:id="@+id/btn_showMap"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:onClick="onClickShowMap"
+        android:text="Show Map" />
+
+    <Button
+        android:id="@+id/btn_launchMyBrowser"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:onClick="onClickLaunchMyBrowser"
+        android:text="Launch My Browser" />
+
+</LinearLayout>
