@@ -1,4 +1,4 @@
-# java-web-services
+# Java Web Services
 ===================
 
 ## What is it?
