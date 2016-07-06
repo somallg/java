@@ -14,6 +14,6 @@ public class StatelessResource {
     @Path("hello")
     @GET
     public String getHello() {
-        return "Hello World";
+        return "Hello Angular Trang";
     }
 }

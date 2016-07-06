@@ -12,7 +12,7 @@
 
     <artifactId>jax-rs-ejb</artifactId>
 
-    <packaging>war</packaging>
+    <packaging>ear</packaging>
 
     <properties>
         <!-- Explicitly declaring the source encoding eliminates the following message: -->
